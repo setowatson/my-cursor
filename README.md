@@ -10,7 +10,7 @@ https://github.com/kinopeee/cursorrules/tree/main
 
 - この`my-cursor-rules`は、Cursor Agent利用に最適化したものです
 - Cursor Agent が自走（人の介入を受けずに自律処理）ができる前提として、Yoloモードの許可コマンドを適切に設定する必要があります。
-- 最新の更新内容については[更新履歴](CHANGELOG.md)を参照してください。
+
 
 ## 概要
 
@@ -54,6 +54,4 @@ https://github.com/kinopeee/cursorrules/tree/main
 
 - Rules for AIに、矛盾する指示、大量の記載があると効果が減少します。Rules for AIの記載内容を十分にご確認ください。
 
-## ライセンス
 
-MITライセンスの下で公開されています。詳細については[LICENSE](LICENSE)ファイルを参照してください。
