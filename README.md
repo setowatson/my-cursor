@@ -4,7 +4,7 @@
 
 https://github.com/kinopeee/cursorrules/tree/main
 
-上記の方のcursorrulesを参考にさせていただいています。
+上記のcursorrulesを参考にさせていただいています。
 
 ## 前提
 
