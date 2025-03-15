@@ -39,7 +39,8 @@ https://github.com/kinopeee/cursorrules/tree/main
 
 ## 使用方法
 
-![ProjectRulesSetting](images/ProjectRulesSetting.png)
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/aafeb382-0ae6-4589-a11d-f2c1dca2d02c" />
+
 1. Cursorの設定画面、「Rules」タブで「Project Rules」エリア内の「Add new rule」ボタンをクリックします。
 2. 「global」以外の適用な名前のルール名を指定して、Enterします。
 3. `.cursor/rules`フォルダが作成されるので、本リポジトリの「global.mdc」をコピーして、そこに保存します。
