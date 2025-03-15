@@ -2,6 +2,10 @@
 
 このリポジトリは、Cursor用のカスタムインストラクションを管理するためのものです。
 
+https://github.com/kinopeee/cursorrules/tree/main
+
+上記の方のcursorrulesを参考にさせていただいています。
+
 ## 前提
 
 - この`my-cursor-rules`は、Cursor Agent利用に最適化したものです
